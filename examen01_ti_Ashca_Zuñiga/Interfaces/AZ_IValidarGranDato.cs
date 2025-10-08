@@ -3,5 +3,5 @@
 // Aplicacion del principio (SRP) Single Responsibility Principle para que cada calse tenga una unica responsabilidad
 public interface AZ_IValidarGranDato
 {
-    public bool verificarDatos(string dato);
+    public bool AZ_verificarDatos(string dato);
 }

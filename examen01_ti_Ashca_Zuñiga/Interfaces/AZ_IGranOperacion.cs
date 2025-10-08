@@ -3,5 +3,5 @@
 // Aplicacion del principio (SRP) Single Responsibility Principle para que cada calse tenga una unica responsabilidad
 public interface AZ_IGranOperacion
 {
-    public string ExjecutarOperacion(string numero1, string numero2);
+    public string AZ_ExjecutarOperacion(string numero1, string numero2);
 }
