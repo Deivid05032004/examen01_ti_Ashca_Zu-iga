@@ -1,0 +1,15 @@
+C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\examen01_ti_Ashca_Zuñiga\examen01_ti_Ashca_Zuñiga\bin\Debug\net8.0\examen01_ti_Ashca_Zuñiga.exe
+C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\examen01_ti_Ashca_Zuñiga\examen01_ti_Ashca_Zuñiga\bin\Debug\net8.0\examen01_ti_Ashca_Zuñiga.deps.json
+C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\examen01_ti_Ashca_Zuñiga\examen01_ti_Ashca_Zuñiga\bin\Debug\net8.0\examen01_ti_Ashca_Zuñiga.runtimeconfig.json
+C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\examen01_ti_Ashca_Zuñiga\examen01_ti_Ashca_Zuñiga\bin\Debug\net8.0\examen01_ti_Ashca_Zuñiga.dll
+C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\examen01_ti_Ashca_Zuñiga\examen01_ti_Ashca_Zuñiga\bin\Debug\net8.0\examen01_ti_Ashca_Zuñiga.pdb
+C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\examen01_ti_Ashca_Zuñiga\examen01_ti_Ashca_Zuñiga\obj\Debug\net8.0\examen01_ti_Ashca_Zuñiga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\examen01_ti_Ashca_Zuñiga\examen01_ti_Ashca_Zuñiga\obj\Debug\net8.0\examen01_ti_Ashca_Zuñiga.AssemblyInfoInputs.cache
+C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\examen01_ti_Ashca_Zuñiga\examen01_ti_Ashca_Zuñiga\obj\Debug\net8.0\examen01_ti_Ashca_Zuñiga.AssemblyInfo.cs
+C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\examen01_ti_Ashca_Zuñiga\examen01_ti_Ashca_Zuñiga\obj\Debug\net8.0\examen01_ti_Ashca_Zuñiga.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\examen01_ti_Ashca_Zuñiga\examen01_ti_Ashca_Zuñiga\obj\Debug\net8.0\examen01_ti_Ashca_Zuñiga.sourcelink.json
+C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\examen01_ti_Ashca_Zuñiga\examen01_ti_Ashca_Zuñiga\obj\Debug\net8.0\examen01_ti_Ashca_Zuñiga.dll
+C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\examen01_ti_Ashca_Zuñiga\examen01_ti_Ashca_Zuñiga\obj\Debug\net8.0\refint\examen01_ti_Ashca_Zuñiga.dll
+C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\examen01_ti_Ashca_Zuñiga\examen01_ti_Ashca_Zuñiga\obj\Debug\net8.0\examen01_ti_Ashca_Zuñiga.pdb
+C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\examen01_ti_Ashca_Zuñiga\examen01_ti_Ashca_Zuñiga\obj\Debug\net8.0\examen01_ti_Ashca_Zuñiga.genruntimeconfig.cache
+C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\examen01_ti_Ashca_Zuñiga\examen01_ti_Ashca_Zuñiga\obj\Debug\net8.0\ref\examen01_ti_Ashca_Zuñiga.dll
