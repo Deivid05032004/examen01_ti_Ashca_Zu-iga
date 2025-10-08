@@ -1,6 +1,7 @@
-﻿using System.Text;
+﻿using examen01_ti_Ashca_Zuñiga.Interfaces;
+using System.Text;
 
-namespace examen01_ti_Ashca_Zuñiga
+namespace examen01_ti_Ashca_Zuñiga.Clases
 {
     public class Program
     {

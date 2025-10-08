@@ -1,7 +1,9 @@
-﻿
+﻿using examen01_ti_Ashca_Zuñiga.Interfaces;
 
-namespace examen01_ti_Ashca_Zuñiga;
+namespace examen01_ti_Ashca_Zuñiga.Clases;
 // Se aplica el principio DIP (Dependency Inversion Principle) ya que la clase depende de abstracciones (interfaces) en lugar de implementaciones concretas.
+// Aiendo uso de la inyeccion de dependencias a traves del constructor para recibir las implementaciones de las interfaces.
+// Ademas se aplica el principio SRP (Single Responsibility Principle) ya que la clase tiene una unica responsabilidad.
 public class AZ_Calculador
 {
     public readonly AZ_IGranOperacion _granOperacion;

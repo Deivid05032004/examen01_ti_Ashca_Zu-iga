@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("examen01_ti_Ashca_Zuñiga")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+edfc53f868709be04bfedd866ab6c0c315a3893e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8115ade3cdedad3000b05dd39041e8d0c1365364")]
 [assembly: System.Reflection.AssemblyProductAttribute("examen01_ti_Ashca_Zuñiga")]
 [assembly: System.Reflection.AssemblyTitleAttribute("examen01_ti_Ashca_Zuñiga")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
