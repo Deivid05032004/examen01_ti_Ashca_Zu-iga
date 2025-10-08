@@ -1,0 +1,64 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\examen01_ti_Ashca_Zu\u00F1iga\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{472DE706-2235-4FCB-A4F5-31C1DACDADD6}|examen01_ti_Ashca_Zu\u00F1iga\\examen01_ti_Ashca_Zu\u00F1iga.csproj|c:\\users\\my pc\\documents\\tecnologia y desarrollo web\\programas en visual studio\\examen01_ti_ashca_zu\u00F1iga\\examen01_ti_ashca_zu\u00F1iga\\az_igranoperacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{472DE706-2235-4FCB-A4F5-31C1DACDADD6}|examen01_ti_Ashca_Zu\u00F1iga\\examen01_ti_Ashca_Zu\u00F1iga.csproj|solutionrelative:examen01_ti_ashca_zu\u00F1iga\\az_igranoperacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{472DE706-2235-4FCB-A4F5-31C1DACDADD6}|examen01_ti_Ashca_Zu\u00F1iga\\examen01_ti_Ashca_Zu\u00F1iga.csproj|c:\\users\\my pc\\documents\\tecnologia y desarrollo web\\programas en visual studio\\examen01_ti_ashca_zu\u00F1iga\\examen01_ti_ashca_zu\u00F1iga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{472DE706-2235-4FCB-A4F5-31C1DACDADD6}|examen01_ti_Ashca_Zu\u00F1iga\\examen01_ti_Ashca_Zu\u00F1iga.csproj|solutionrelative:examen01_ti_ashca_zu\u00F1iga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 311,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AZ_IGranOperacion.cs",
+              "DocumentMoniker": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\examen01_ti_Ashca_Zu\u00F1iga\\examen01_ti_Ashca_Zu\u00F1iga\\AZ_IGranOperacion.cs",
+              "RelativeDocumentMoniker": "examen01_ti_Ashca_Zu\u00F1iga\\AZ_IGranOperacion.cs",
+              "ToolTip": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\examen01_ti_Ashca_Zu\u00F1iga\\examen01_ti_Ashca_Zu\u00F1iga\\AZ_IGranOperacion.cs",
+              "RelativeToolTip": "examen01_ti_Ashca_Zu\u00F1iga\\AZ_IGranOperacion.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T15:41:27.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\examen01_ti_Ashca_Zu\u00F1iga\\examen01_ti_Ashca_Zu\u00F1iga\\Program.cs",
+              "RelativeDocumentMoniker": "examen01_ti_Ashca_Zu\u00F1iga\\Program.cs",
+              "ToolTip": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\examen01_ti_Ashca_Zu\u00F1iga\\examen01_ti_Ashca_Zu\u00F1iga\\Program.cs",
+              "RelativeToolTip": "examen01_ti_Ashca_Zu\u00F1iga\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T15:39:02.406Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 81,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
