@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\examen01_ti_Ashca_Zu\u00F1iga\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{472DE706-2235-4FCB-A4F5-31C1DACDADD6}|examen01_ti_Ashca_Zu\u00F1iga\\examen01_ti_Ashca_Zu\u00F1iga.csproj|c:\\users\\my pc\\documents\\tecnologia y desarrollo web\\programas en visual studio\\examen01_ti_ashca_zu\u00F1iga\\examen01_ti_ashca_zu\u00F1iga\\az_validardatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{472DE706-2235-4FCB-A4F5-31C1DACDADD6}|examen01_ti_Ashca_Zu\u00F1iga\\examen01_ti_Ashca_Zu\u00F1iga.csproj|solutionrelative:examen01_ti_ashca_zu\u00F1iga\\az_validardatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{472DE706-2235-4FCB-A4F5-31C1DACDADD6}|examen01_ti_Ashca_Zu\u00F1iga\\examen01_ti_Ashca_Zu\u00F1iga.csproj|c:\\users\\my pc\\documents\\tecnologia y desarrollo web\\programas en visual studio\\examen01_ti_ashca_zu\u00F1iga\\examen01_ti_ashca_zu\u00F1iga\\az_ivalidargrandato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{472DE706-2235-4FCB-A4F5-31C1DACDADD6}|examen01_ti_Ashca_Zu\u00F1iga\\examen01_ti_Ashca_Zu\u00F1iga.csproj|solutionrelative:examen01_ti_ashca_zu\u00F1iga\\az_ivalidargrandato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{472DE706-2235-4FCB-A4F5-31C1DACDADD6}|examen01_ti_Ashca_Zu\u00F1iga\\examen01_ti_Ashca_Zu\u00F1iga.csproj|c:\\users\\my pc\\documents\\tecnologia y desarrollo web\\programas en visual studio\\examen01_ti_ashca_zu\u00F1iga\\examen01_ti_ashca_zu\u00F1iga\\az_calculador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{472DE706-2235-4FCB-A4F5-31C1DACDADD6}|examen01_ti_Ashca_Zu\u00F1iga\\examen01_ti_Ashca_Zu\u00F1iga.csproj|solutionrelative:examen01_ti_ashca_zu\u00F1iga\\az_calculador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{472DE706-2235-4FCB-A4F5-31C1DACDADD6}|examen01_ti_Ashca_Zu\u00F1iga\\examen01_ti_Ashca_Zu\u00F1iga.csproj|c:\\users\\my pc\\documents\\tecnologia y desarrollo web\\programas en visual studio\\examen01_ti_ashca_zu\u00F1iga\\examen01_ti_ashca_zu\u00F1iga\\az_igranoperacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{472DE706-2235-4FCB-A4F5-31C1DACDADD6}|examen01_ti_Ashca_Zu\u00F1iga\\examen01_ti_Ashca_Zu\u00F1iga.csproj|solutionrelative:examen01_ti_ashca_zu\u00F1iga\\az_igranoperacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{472DE706-2235-4FCB-A4F5-31C1DACDADD6}|examen01_ti_Ashca_Zu\u00F1iga\\examen01_ti_Ashca_Zu\u00F1iga.csproj|c:\\users\\my pc\\documents\\tecnologia y desarrollo web\\programas en visual studio\\examen01_ti_ashca_zu\u00F1iga\\examen01_ti_ashca_zu\u00F1iga\\az_ivalidargrandato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{472DE706-2235-4FCB-A4F5-31C1DACDADD6}|examen01_ti_Ashca_Zu\u00F1iga\\examen01_ti_Ashca_Zu\u00F1iga.csproj|solutionrelative:examen01_ti_ashca_zu\u00F1iga\\az_ivalidargrandato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{472DE706-2235-4FCB-A4F5-31C1DACDADD6}|examen01_ti_Ashca_Zu\u00F1iga\\examen01_ti_Ashca_Zu\u00F1iga.csproj|c:\\users\\my pc\\documents\\tecnologia y desarrollo web\\programas en visual studio\\examen01_ti_ashca_zu\u00F1iga\\examen01_ti_ashca_zu\u00F1iga\\az_sumarnumeros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{472DE706-2235-4FCB-A4F5-31C1DACDADD6}|examen01_ti_Ashca_Zu\u00F1iga\\examen01_ti_Ashca_Zu\u00F1iga.csproj|solutionrelative:examen01_ti_ashca_zu\u00F1iga\\az_sumarnumeros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{472DE706-2235-4FCB-A4F5-31C1DACDADD6}|examen01_ti_Ashca_Zu\u00F1iga\\examen01_ti_Ashca_Zu\u00F1iga.csproj|c:\\users\\my pc\\documents\\tecnologia y desarrollo web\\programas en visual studio\\examen01_ti_ashca_zu\u00F1iga\\examen01_ti_ashca_zu\u00F1iga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{472DE706-2235-4FCB-A4F5-31C1DACDADD6}|examen01_ti_Ashca_Zu\u00F1iga\\examen01_ti_Ashca_Zu\u00F1iga.csproj|solutionrelative:examen01_ti_ashca_zu\u00F1iga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{472DE706-2235-4FCB-A4F5-31C1DACDADD6}|examen01_ti_Ashca_Zu\u00F1iga\\examen01_ti_Ashca_Zu\u00F1iga.csproj|c:\\users\\my pc\\documents\\tecnologia y desarrollo web\\programas en visual studio\\examen01_ti_ashca_zu\u00F1iga\\examen01_ti_ashca_zu\u00F1iga\\az_validardatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{472DE706-2235-4FCB-A4F5-31C1DACDADD6}|examen01_ti_Ashca_Zu\u00F1iga\\examen01_ti_Ashca_Zu\u00F1iga.csproj|solutionrelative:examen01_ti_ashca_zu\u00F1iga\\az_validardatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +34,37 @@
       "DocumentGroups": [
         {
           "DockedHeight": 311,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "AZ_Calculador.cs",
+              "DocumentMoniker": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\examen01_ti_Ashca_Zu\u00F1iga\\examen01_ti_Ashca_Zu\u00F1iga\\AZ_Calculador.cs",
+              "RelativeDocumentMoniker": "examen01_ti_Ashca_Zu\u00F1iga\\AZ_Calculador.cs",
+              "ToolTip": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\examen01_ti_Ashca_Zu\u00F1iga\\examen01_ti_Ashca_Zu\u00F1iga\\AZ_Calculador.cs",
+              "RelativeToolTip": "examen01_ti_Ashca_Zu\u00F1iga\\AZ_Calculador.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T16:11:47.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AZ_SumarNumeros.cs",
+              "DocumentMoniker": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\examen01_ti_Ashca_Zu\u00F1iga\\examen01_ti_Ashca_Zu\u00F1iga\\AZ_SumarNumeros.cs",
+              "RelativeDocumentMoniker": "examen01_ti_Ashca_Zu\u00F1iga\\AZ_SumarNumeros.cs",
+              "ToolTip": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\examen01_ti_Ashca_Zu\u00F1iga\\examen01_ti_Ashca_Zu\u00F1iga\\AZ_SumarNumeros.cs",
+              "RelativeToolTip": "examen01_ti_Ashca_Zu\u00F1iga\\AZ_SumarNumeros.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T16:03:46.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "AZ_IValidarGranDato.cs",
               "DocumentMoniker": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\examen01_ti_Ashca_Zu\u00F1iga\\examen01_ti_Ashca_Zu\u00F1iga\\AZ_IValidarGranDato.cs",
               "RelativeDocumentMoniker": "examen01_ti_Ashca_Zu\u00F1iga\\AZ_IValidarGranDato.cs",
@@ -38,44 +72,47 @@
               "RelativeToolTip": "examen01_ti_Ashca_Zu\u00F1iga\\AZ_IValidarGranDato.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T15:50:55.118Z"
+              "WhenOpened": "2025-10-08T15:50:55.118Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "AZ_ValidarDatos.cs",
               "DocumentMoniker": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\examen01_ti_Ashca_Zu\u00F1iga\\examen01_ti_Ashca_Zu\u00F1iga\\AZ_ValidarDatos.cs",
               "RelativeDocumentMoniker": "examen01_ti_Ashca_Zu\u00F1iga\\AZ_ValidarDatos.cs",
               "ToolTip": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\examen01_ti_Ashca_Zu\u00F1iga\\examen01_ti_Ashca_Zu\u00F1iga\\AZ_ValidarDatos.cs",
               "RelativeToolTip": "examen01_ti_Ashca_Zu\u00F1iga\\AZ_ValidarDatos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-08T15:46:34.561Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "AZ_IGranOperacion.cs",
               "DocumentMoniker": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\examen01_ti_Ashca_Zu\u00F1iga\\examen01_ti_Ashca_Zu\u00F1iga\\AZ_IGranOperacion.cs",
               "RelativeDocumentMoniker": "examen01_ti_Ashca_Zu\u00F1iga\\AZ_IGranOperacion.cs",
               "ToolTip": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\examen01_ti_Ashca_Zu\u00F1iga\\examen01_ti_Ashca_Zu\u00F1iga\\AZ_IGranOperacion.cs",
               "RelativeToolTip": "examen01_ti_Ashca_Zu\u00F1iga\\AZ_IGranOperacion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T15:41:27.306Z"
+              "WhenOpened": "2025-10-08T15:41:27.306Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\examen01_ti_Ashca_Zu\u00F1iga\\examen01_ti_Ashca_Zu\u00F1iga\\Program.cs",
               "RelativeDocumentMoniker": "examen01_ti_Ashca_Zu\u00F1iga\\Program.cs",
               "ToolTip": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\examen01_ti_Ashca_Zu\u00F1iga\\examen01_ti_Ashca_Zu\u00F1iga\\Program.cs",
               "RelativeToolTip": "examen01_ti_Ashca_Zu\u00F1iga\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T15:39:02.406Z"
+              "WhenOpened": "2025-10-08T15:39:02.406Z",
+              "EditorCaption": ""
             }
           ]
         },
